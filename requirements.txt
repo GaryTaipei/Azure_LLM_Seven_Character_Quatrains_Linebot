@@ -1,0 +1,7 @@
+line-bot-sdk==3.13.0
+flask
+configparser
+azure-ai-translation-text==1.0.0
+azure-cognitiveservices-speech
+librosa
+openai

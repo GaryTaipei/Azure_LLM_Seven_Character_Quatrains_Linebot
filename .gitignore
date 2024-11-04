@@ -1,0 +1,14 @@
+__pycache__
+.vscode
+Include
+Lib
+Scripts
+base.py
+app_bak1.py
+app_chu.py
+config_bak1.ini
+config.ini
+config_empty.ini
+config_chu.ini
+openai-complete-with-imagefile.py
+pyvenv.cfg
